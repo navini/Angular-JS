@@ -1,0 +1,4 @@
+This project contains work done as course requirements for the Coursera course
+'Front-End JavaScript Frameworks: AngularJS' conducted by Jogesh K. Muppala,
+The Hong Kong University of Science and Technology. Some parts of the work were
+assignments and some were done with instructions given in lectures.
